@@ -1,0 +1,21 @@
+Test Scenario 1: Advertisement Block
+This block will has to dispaly the 4 different ads
+at each end its should shows the next button
+on moving the mouse over the ads the ads will be able to click the same.
+on clicking it should me able to open in the new tab
+
+Test Scenario 2:Menu bar
+This block will contines menu items like movie,stream,events,listYourShows,Offers,etc
+by clicking each item it should able to navigate to repective page
+And this block will be placed under the search bar and above the ads block
+
+Test Scenario 3:Logo and search bar
+This block need to contains the logo of the application(BookMyShow) 
+on clicking logo it should able to reach to home page
+to its right it need to contine the search bar with light text on what need to do
+and to its extrime right it should the location, sign in and navigataion bar
+
+Test Senario 4: Sign in option
+On clicking the Sign in potion it should open the new pop up window 
+which shows the different ways of Sign in option 
+and for phone no with contry code it should have only 12 digits
